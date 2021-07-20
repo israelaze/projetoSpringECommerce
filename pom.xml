@@ -104,6 +104,13 @@
 			<artifactId>hibernate-core</artifactId>
 		</dependency>
 		
+		<!-- dependencias para o Mysql -->
+		<dependency>
+			<groupId>mysql</groupId>
+			<artifactId>mysql-connector-java</artifactId>
+		</dependency>
+		
+		
 	</dependencies>
 
 	<!-- seção onde configuramos o deploy -->
